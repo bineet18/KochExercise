@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="95838" started-at="2020-09-13T14:40:58 IST" finished-at="2020-09-13T14:42:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="95838" started-at="2020-09-13T14:40:58 IST" finished-at="2020-09-13T14:42:34 IST">
+      <class name="KochExercise.printFlightDetails">
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="preConditions" is-config="true" duration-ms="2083" started-at="2020-09-13T14:40:58 IST" finished-at="2020-09-13T14:41:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="printFlightHavingFareLessThan5000()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="printFlightHavingFareLessThan5000" duration-ms="17005" started-at="2020-09-13T14:41:00 IST" finished-at="2020-09-13T14:41:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFlightHavingFareLessThan5000 -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="postConditions" is-config="true" duration-ms="649" started-at="2020-09-13T14:41:17 IST" finished-at="2020-09-13T14:41:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="preConditions" is-config="true" duration-ms="1262" started-at="2020-09-13T14:41:18 IST" finished-at="2020-09-13T14:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="printFlightHavingFareLessThan5000()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="printFlightHavingFareLessThan5000" duration-ms="16118" started-at="2020-09-13T14:41:19 IST" finished-at="2020-09-13T14:41:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFlightHavingFareLessThan5000 -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="postConditions" is-config="true" duration-ms="666" started-at="2020-09-13T14:41:35 IST" finished-at="2020-09-13T14:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="preConditions" is-config="true" duration-ms="1303" started-at="2020-09-13T14:41:36 IST" finished-at="2020-09-13T14:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="printFlightHavingFareLessThan5000()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="printFlightHavingFareLessThan5000" duration-ms="17297" started-at="2020-09-13T14:41:37 IST" finished-at="2020-09-13T14:41:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFlightHavingFareLessThan5000 -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="postConditions" is-config="true" duration-ms="659" started-at="2020-09-13T14:41:54 IST" finished-at="2020-09-13T14:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="preConditions" is-config="true" duration-ms="1348" started-at="2020-09-13T14:41:55 IST" finished-at="2020-09-13T14:41:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="printFlightHavingFareLessThan5000()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="printFlightHavingFareLessThan5000" duration-ms="16258" started-at="2020-09-13T14:41:56 IST" finished-at="2020-09-13T14:42:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFlightHavingFareLessThan5000 -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="postConditions" is-config="true" duration-ms="678" started-at="2020-09-13T14:42:13 IST" finished-at="2020-09-13T14:42:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="preConditions" is-config="true" duration-ms="1300" started-at="2020-09-13T14:42:13 IST" finished-at="2020-09-13T14:42:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="printFlightHavingFareLessThan5000()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="printFlightHavingFareLessThan5000" duration-ms="18486" started-at="2020-09-13T14:42:15 IST" finished-at="2020-09-13T14:42:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFlightHavingFareLessThan5000 -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:KochExercise.printFlightDetails@7ff95560]" name="postConditions" is-config="true" duration-ms="684" started-at="2020-09-13T14:42:33 IST" finished-at="2020-09-13T14:42:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- KochExercise.printFlightDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
