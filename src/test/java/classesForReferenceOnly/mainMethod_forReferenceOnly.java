@@ -1,4 +1,4 @@
-package KochExercise;
+package classesForReferenceOnly;
 
 import java.io.IOException;
 import java.util.Properties;

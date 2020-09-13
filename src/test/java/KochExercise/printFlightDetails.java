@@ -4,13 +4,13 @@ import java.io.IOException;
 import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import Pages.homePage;
 import Pages.searchListingPage;
-import junit.framework.Assert;
 import properties.initializeConfigurations;
 import properties.initializeDriver;
 
@@ -30,8 +30,7 @@ public class printFlightDetails
 		propC = c.returnConfiguration();
 	}
 	
-	@SuppressWarnings("deprecation")
-	@Test(invocationCount = 5)
+	@Test
 	public void printFlightHavingFareLessThan5000() throws IOException, InterruptedException
 	{
 		driver.get(propC.getProperty("url"));// Step1: Navigate to the URL
